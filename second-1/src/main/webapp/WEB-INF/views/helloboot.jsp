@@ -25,7 +25,9 @@ function(){
 </script>
 </head>
 <body>
-	<h1>수정되었습니다</h1>
+
+	<h1>수정되었습니다-수정(김민지씨질문)</h1>
+
 <h1>${dto.model }</h1>
 <input type=button value="ajax요청버튼" id="ajaxbtn" >
 <h1><div id="result"></div></h1>
